@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cheetah",
+    "speed": 120,
+    "strength": 40,
+    "intelligence": 50
+  },
+  {
+    "name": "Elephant",
+    "speed": 25,
+    "strength": 90,
+    "intelligence": 60
+  },
+  {
+    "name": "Dolphin",
+    "speed": 60,
+    "strength": 30,
+    "intelligence": 90
+  }
+]
