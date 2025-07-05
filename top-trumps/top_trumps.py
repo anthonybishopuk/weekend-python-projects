@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 import json
 
@@ -28,3 +29,6 @@ elif player_val < computer_val:
     print("You lose.")
 else:
     print("It's a draw.")
+=======
+
+>>>>>>> d1a55a26426084ebda2af9a1ade47ab803bf8026
