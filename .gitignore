@@ -1,0 +1,27 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data / analysis outputs
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
